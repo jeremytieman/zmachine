@@ -1,4 +1,4 @@
-#include "..\inc\file.h"
+#include <file.h>
 #include <iostream>
 #include <stack>
 #include <vector>
